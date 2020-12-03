@@ -56,3 +56,8 @@ permalink: /questions/javascript-questions/index.html
 duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 ```
 * Create a for loop that iterates up to `100` while outputting **"fizz"** at multiples of `3`, **"buzz"** at multiples of `5` and **"fizzbuzz"** at multiples of `3` and `5`
+
+* Flatten the 2D array into a 1D array with values greater than or equal to 3.
+```javascript
+[[1,2,5],[3,2],[4,0]] // result array should be [5,3,4]  
+```
